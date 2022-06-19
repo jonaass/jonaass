@@ -17,7 +17,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/772960040285110303/988197407726649464?width=6&height=6">
 </div>
-</div>
   
 ##
   
