@@ -1,7 +1,7 @@
 ### vc é lindo/linda 😎 
 
 - 😳 Estou em progresso da área de TI  
-- 😔 Estuudando para ser um programador 
+- 😔 Estudando para ser um programador 
 - 📫 Contate-me no meu Email: jonascn.2021@gmail.com
 
  <div align="center">
