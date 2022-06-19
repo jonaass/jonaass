@@ -1,7 +1,7 @@
 ### bom dia 😎 
 
 - 🔭 Estou em progresso da área de TI  
-- 🌱 Estuudando React + APi
+- 🌱 Estuudando para ser um programador 
 - 📫 Contate-me no meu Email: jonascn.2021@gmail.com
 
  <div align="center">
