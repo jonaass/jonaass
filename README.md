@@ -1,4 +1,4 @@
-### vc é lindo/linda 😎 
+### está tudo bem com você ?  
 
 - 😳 Estou em progresso da área de TI  
 - 😔 Estudando para ser um programador 
