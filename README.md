@@ -1,7 +1,6 @@
 ### está tudo bem com você ?  
 
-- 😳 Estou em progresso da área de TI  
-- 😔 Estudando para ser um programador 
+- Estou em progresso da área de TI  
 - 📫 Contate-me no meu Email: jonascn.2021@gmail.com
 
  <div align="center">
