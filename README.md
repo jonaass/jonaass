@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
+
 
 <div align="left">
 <a href="mailto:jonascn.2021@gmail.com">
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
