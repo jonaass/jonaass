@@ -39,20 +39,12 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 | ◈ | Formação React Developer - DIO | ✅ Complete |
 
 ---
-<h3 align="left">🔥  Estátisticas :</h3>
 
-###
+# 📊 GitHub Estatísticas:
+![](https://github-readme-stats.shion.dev/api?username=jonaass&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=jonaass&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jonaass&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jonaass&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 🏆 GitHub Troféus
+![](https://github-profile-trophy.vercel.app/?username=jonaass&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonaass/jonaass/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonaass/jonaass/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jonaass/jonaass/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-###
