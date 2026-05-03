@@ -3,7 +3,7 @@
 </br>
 
 <div align="center">
- <h1>Desenvolvedor Full Stack</h1>
+ <p>Desenvolvedor Full Stack</p>
  
  Olá! Me chamo Jonas Cunha, tenho 20 anos, sou natural de São Paulo (SP) e atualmente curso Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada.
 Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é resolver problemas reais e transformar ideias em soluções eficazes. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
