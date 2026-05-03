@@ -1,5 +1,6 @@
 <h2 align="left">👨🏻‍💻 Jonas Cunha</h2>
 
+<img width="1080" height="470" alt="Image" src="https://github.com/user-attachments/assets/dec47797-8a78-49f6-a586-c9b9c58fd5be" />
 
 **`Desenvolvedora FullStack`**
  
