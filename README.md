@@ -1,10 +1,10 @@
-<h2 align="left">Olá, Sou o Jonas. Bem vindos ao Meu Perfil do GitHub</h2>
+<h2 align="left">👨🏻‍💻 Jonas Cunha</h2>
 
 </br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonaass&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jonaass&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ Olá! Me chamo Jonas Cunha, tenho 20 anos, sou natural de São Paulo (SP) e atualmente curso Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada.
+Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é resolver problemas reais e transformar ideias em soluções eficazes. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
 </div>
 
 </br>
