@@ -39,8 +39,4 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 | ◈ | Formação React Developer - DIO | ✅ Complete |
 
 ---
-## 🚀 Featured Projects
 
-[![Flash Cards](https://github-readme-stats.vercel.app/api/pin/?username=jonaass&repo=flash-cards&theme=tokyonight)](https://github.com/jonaass/flash-cards)
-
-Sistema de flashcards para estudo, focado em memorização e revisão eficiente.
