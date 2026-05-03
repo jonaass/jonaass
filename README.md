@@ -2,7 +2,7 @@
 
 <img width="1080" height="470" alt="Image" src="https://github.com/user-attachments/assets/dec47797-8a78-49f6-a586-c9b9c58fd5be" />
 
-**`Desenvolvedora FullStack`**
+![Typing Animation](https://waveify.onrender.com/api/typing/gradient?text=Desenvolvedor+FullStack&speed=60&color=%23ff00ff&backgroundColor=transparent&fontSize=32&fontFamily=monospace&width=200&height=50&cursor=false&cursorColor=%23000000&type=gradient&prompt=%24+&glowEffect=true&repeat=false&pauseTime=3000&easing=easeInOut)
  
  Olá! Me chamo Jonas Cunha, tenho 20 anos, sou natural de São Paulo (SP) e atualmente curso Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada.
 Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é resolver problemas reais e transformar ideias em soluções eficazes. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
