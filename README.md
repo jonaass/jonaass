@@ -14,12 +14,6 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
  ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&labelColor=black) ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black) ![Static Badge](https://img.shields.io/badge/Python%20-%23F7DF1E?style=for-the-badge&logo=Python&labelColor=black) ![Static Badge](https://img.shields.io/badge/Mysql%20-%20%234479A1?style=for-the-badge&logo=Mysql&labelColor=black) ![Static Badge](https://img.shields.io/badge/Postgresql%20-%20%234169E1?style=for-the-badge&logo=Postgresql&labelColor=black) ![Static Badge](https://img.shields.io/badge/Html5%20-%20%23E34F26?style=for-the-badge&logo=Html5&labelColor=black) ![Static Badge](https://img.shields.io/badge/Css%20-%20%23663399?style=for-the-badge&logo=Css&labelColor=black)
 
 
-
-
-
-
-
-
 </br>
 
 
@@ -41,15 +35,7 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 |:---:|:---|:---:|
 | ◈ | Analise e Desnvolvimento de Sistema | 🔄 Em Progreso |
 | ◈ | Formação Java Fundamentals — DIO | 🔄 Em Progreso |
-| ◈ | Formação React Developer - DIO | 🔄 Em Progreso |
+| ◈ | Formação React Developer - DIO | ✅ Complete |
 
 ---
 
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
-</picture>
