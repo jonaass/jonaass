@@ -30,6 +30,7 @@ para gente de verdade, como o sistema de estoque e doações da Casa Via Matris,
 <a href="https://github.com/jonaass/Flash-Cards"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=Flash-Cards&theme=tokyonight&hide_border=true" alt="Flash-Cards"/></a>
 <a href="https://github.com/jonaass/-Criando-um-sistema-de-recomenda-es"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=-Criando-um-sistema-de-recomenda-es&theme=tokyonight&hide_border=true" alt="Sistema de recomendação"/></a>
 <a href="https://github.com/jonaass/Seu-Profissional"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=Seu-Profissional&theme=tokyonight&hide_border=true" alt="Seu Profissional"/></a>
+<a href="https://github.com/victormfz/SparTech-TCC"><img src="https://github-readme-stats.shion.dev/api/pin/?username=victormfz&repo=SparTech-TCC&theme=tokyonight&hide_border=true" alt="SparTech (TCC)"/></a>
 </div>
 
 | Projeto | O que faz | Stack |
@@ -38,6 +39,7 @@ para gente de verdade, como o sistema de estoque e doações da Casa Via Matris,
 | **[Flash-Cards com IA](https://github.com/jonaass/Flash-Cards)** | Gera flashcards de estudo a partir de qualquer texto (em equipe, em desenvolvimento) | React, Vite, Node.js, Groq (Llama 3) |
 | **[Sistema de Recomendação](https://github.com/jonaass/-Criando-um-sistema-de-recomenda-es)** | Recomenda filmes por similaridade entre usuários (projeto acadêmico em equipe) | Python, Tkinter, KNN |
 | **[Seu Profissional](https://github.com/jonaass/Seu-Profissional)** | Conecta clientes a prestadores de serviço | PHP, JavaScript |
+| **[SparTech](https://github.com/victormfz/SparTech-TCC)** | TCC do Técnico em Informática (2022, equipe de 5): marketplace de serviços. Fiz o front-end da landing, login, cadastros, busca, perfil profissional e solicitação de serviço (45 commits) | React, SCSS, Node.js, Express, MySQL |
 
 ## ⚡ Tecnologias
 
