@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/jonas-cunha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jonascn.2021@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<a href="https://jonaass.github.io/casa-via-matris/"><img src="https://img.shields.io/badge/Projeto_no_ar-Casa_Via_Matris-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Casa Via Matris no ar"/></a>
+<a href="https://casa-via-matris.vercel.app"><img src="https://img.shields.io/badge/Projeto_no_ar-Casa_Via_Matris-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Casa Via Matris no ar"/></a>
 
 </div>
 
@@ -36,7 +36,7 @@ para gente de verdade, como o sistema de estoque e doações da Casa Via Matris,
 
 | Projeto | O que faz | Stack |
 |:--|:--|:--|
-| **[Casa Via Matris](https://jonaass.github.io/casa-via-matris/)** | Estoque, doações e finanças de uma ONG (projeto de extensão, ODS 10). Instala no celular e abre sem internet, com 4 perfis de acesso e backup em planilhas | HTML, CSS, JavaScript, PWA, node:test, GitHub Actions |
+| **[Casa Via Matris](https://casa-via-matris.vercel.app)** | ✅ Concluído (v1.7.0). Estoque, doações e finanças de uma ONG (projeto de extensão, ODS 10). Instala no celular, tem 4 perfis de acesso e roda na Vercel com banco Postgres. Sou o autor principal (28 de 31 commits); o back-end em FastAPI é de um colega e eu integrei | HTML, CSS, JavaScript, PWA, FastAPI, Postgres, GitHub Actions |
 | **[Nexus](https://github.com/anthonymarcondes899-tech/Projeto-games-pcd-/tree/sprint3-bem-estar-premium-ia)** | Plataforma gamer inclusiva para pessoas com deficiência (projeto da faculdade, em equipe, em desenvolvimento). Desenvolvi a Sprint 3: bem-estar digital, assinatura Premium, identificador de fotos geradas por IA (metadados IPTC/C2PA), novo visual com contraste WCAG AA e 10 testes automatizados | React, Vite, Node.js, Express, Socket.io, SQLite, node:test |
 | **[Flash-Cards com IA](https://github.com/jonaass/Flash-Cards)** | Gera flashcards de estudo a partir de qualquer texto (em equipe, em desenvolvimento) | React, Vite, Node.js, Groq (Llama 3) |
 | **[Sistema de Recomendação](https://github.com/jonaass/-Criando-um-sistema-de-recomenda-es)** | Recomenda filmes por similaridade entre usuários (projeto acadêmico em equipe) | Python, Tkinter, KNN |
