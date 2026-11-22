@@ -27,6 +27,7 @@ para gente de verdade, como o sistema de estoque e doações da Casa Via Matris,
 
 <div align="center">
 <a href="https://github.com/jonaass/casa-via-matris"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=casa-via-matris&theme=tokyonight&hide_border=true" alt="casa-via-matris"/></a>
+<a href="https://github.com/anthonymarcondes899-tech/Projeto-games-pcd-/tree/sprint3-bem-estar-premium-ia"><img src="https://github-readme-stats.shion.dev/api/pin/?username=anthonymarcondes899-tech&repo=Projeto-games-pcd-&theme=tokyonight&hide_border=true" alt="Nexus — plataforma gamer inclusiva"/></a>
 <a href="https://github.com/jonaass/Flash-Cards"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=Flash-Cards&theme=tokyonight&hide_border=true" alt="Flash-Cards"/></a>
 <a href="https://github.com/jonaass/-Criando-um-sistema-de-recomenda-es"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=-Criando-um-sistema-de-recomenda-es&theme=tokyonight&hide_border=true" alt="Sistema de recomendação"/></a>
 <a href="https://github.com/jonaass/Seu-Profissional"><img src="https://github-readme-stats.shion.dev/api/pin/?username=jonaass&repo=Seu-Profissional&theme=tokyonight&hide_border=true" alt="Seu Profissional"/></a>
@@ -36,6 +37,7 @@ para gente de verdade, como o sistema de estoque e doações da Casa Via Matris,
 | Projeto | O que faz | Stack |
 |:--|:--|:--|
 | **[Casa Via Matris](https://jonaass.github.io/casa-via-matris/)** | Estoque, doações e finanças de uma ONG (projeto de extensão, ODS 10). Instala no celular e abre sem internet, com 4 perfis de acesso e backup em planilhas | HTML, CSS, JavaScript, PWA, node:test, GitHub Actions |
+| **[Nexus](https://github.com/anthonymarcondes899-tech/Projeto-games-pcd-/tree/sprint3-bem-estar-premium-ia)** | Plataforma gamer inclusiva para pessoas com deficiência (projeto da faculdade, em equipe). Desenvolvi a Sprint 3: bem-estar digital, assinatura Premium, identificador de fotos geradas por IA (metadados IPTC/C2PA), novo visual com contraste WCAG AA e 10 testes automatizados | React, Vite, Node.js, Express, Socket.io, SQLite, node:test |
 | **[Flash-Cards com IA](https://github.com/jonaass/Flash-Cards)** | Gera flashcards de estudo a partir de qualquer texto (em equipe, em desenvolvimento) | React, Vite, Node.js, Groq (Llama 3) |
 | **[Sistema de Recomendação](https://github.com/jonaass/-Criando-um-sistema-de-recomenda-es)** | Recomenda filmes por similaridade entre usuários (projeto acadêmico em equipe) | Python, Tkinter, KNN |
 | **[Seu Profissional](https://github.com/jonaass/Seu-Profissional)** | Conecta clientes a prestadores de serviço | PHP, JavaScript |
